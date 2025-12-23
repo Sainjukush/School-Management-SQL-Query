@@ -100,5 +100,5 @@ Main tables used in this project:
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/yourusername/school-database-sql-queries.git
+```bash  
+git@github.com:Sainjukush/School-Management-SQL-Query.git
