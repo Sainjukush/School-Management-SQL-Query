@@ -63,8 +63,9 @@ They include:
 ---
 
 ## Answers
-- <a href= (https://github.com/Sainjukush/School-Management-SQL-Query)> Answers </a>
+- [Answers](https://github.com/Sainjukush/School-Management-SQL-Query)
 
+---
 ## Database Requirements
 
 - **Database:** PostgreSQL (recommended)
